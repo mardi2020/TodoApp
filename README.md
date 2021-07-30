@@ -1,6 +1,6 @@
 # TypeScript 가이드<br>
 > typescript는 javascript에 자료형을 명시한 것이다. <br>
-[TypeScript](https://typescript.org/docs/)
+[TypeScript](https://www.typescriptlang.org/docs/)
 ```typescript
    function func(userID : number) {
    // userID은 숫자 자료형
